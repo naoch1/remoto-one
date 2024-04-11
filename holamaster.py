@@ -1,2 +1,2 @@
-print("holamundo 2 ")
-print("para pruebas de modificacion del master con nuevos fuebntes")
+print("Terrible saludo para nada ")
+print("para pruebas de modificacion del master con nuevos fuentes")
